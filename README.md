@@ -34,9 +34,7 @@ Currently exploring backend architecture, cloud technologies, and modern softwar
 
 🚀 Building **Socius** — a community-driven social platform.
 
-Repository →
-
-https://github.com/AshimDebnath747/socius
+Repository →  https://github.com/AshimDebnath747/socius
 
 ---
 
@@ -62,7 +60,7 @@ https://github.com/AshimDebnath747/socius
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mannasharma&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mannasharma&theme=github-light-blue&hide_border=true"/>
 
 </div>
 
