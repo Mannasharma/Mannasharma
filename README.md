@@ -49,18 +49,8 @@ https://github.com/AshimDebnath747/socius
 </div>
 
 ---
-
 ## 04. GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mannasharma&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannasharma&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<br>
 
 <div align="center">
 
@@ -72,7 +62,7 @@ https://github.com/AshimDebnath747/socius
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mannasharma&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mannasharma&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
