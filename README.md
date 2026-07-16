@@ -17,6 +17,9 @@ Building thoughtful web experiences with modern technologies.
 <a href="mailto:mannasharmaaralia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/dev_manna/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
