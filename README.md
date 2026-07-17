@@ -45,7 +45,7 @@ Repository →  https://github.com/AshimDebnath747/socius
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,python,java,html,css,tailwind,materialui,postgres,mysql,docker,git,github,linux,vscode,postman,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,js,ts,python,java,html,css,tailwind,materialui,postgres,mysql,docker,git,github,linux,vscode,postman,c,cpp,php"/>
 
 </div>
 
