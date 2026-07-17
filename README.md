@@ -10,14 +10,14 @@ Building thoughtful web experiences with modern technologies.
 
 <br>
 
-<a href="https://www.linkedin.com/in/manna-sharma/" target ="blank">
+<a href="https://www.linkedin.com/in/manna-sharma/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:mannasharmaaralia@gmail.com" target ="blank">
+<a href="mailto:mannasharmaaralia@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/dev_manna/" target ="blank">
+<a href="https://leetcode.com/u/dev_manna/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/>
 </a>
 
